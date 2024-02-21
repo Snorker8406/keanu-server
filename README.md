@@ -4,16 +4,27 @@ AstraZeneka code challenge
 CLIENT APP
 
 Project Technologies
+
     - GraphQL
+    
     - TypeScript
+    
     - Apollo Server
+    
     - Docker containerized
+    
 Steps to setup
+
     - clone/fork Repo
+    
     - $ run npm install
+    
     - $ run npm start
+    
 When app is running looks like:
+
 ![view when running](preview.png)
+
 
 Challenge Description:
 Full Stack coding challenge
